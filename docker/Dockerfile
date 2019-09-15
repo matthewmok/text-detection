@@ -52,4 +52,4 @@ ADD https://github.com/ufoscout/docker-compose-wait/releases/download/2.5.0/wait
 RUN chmod a+x /usr/local/bin/wait
 
 
-WORKDIR /opt/dev
+WORKDIR /opt/keras
