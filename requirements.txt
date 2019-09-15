@@ -1,0 +1,12 @@
+black==19.3b0
+boto3==1.9.130
+ipython==6.5.0
+isort==4.3.16
+keras
+numpy==1.15.1
+pandas==0.24.0
+pyYAML==5.1
+pytest-cov==2.6.0
+pytest==3.8.0
+scikit-learn==0.20.3
+tensorflow==1.14.0
